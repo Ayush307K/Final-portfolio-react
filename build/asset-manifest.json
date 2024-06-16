@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5433a991.css",
+    "main.js": "/static/js/main.fd05c1c2.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/Astronot.gif": "/static/media/Astronot.d3ece87765bea7f0cd00.gif",
+    "static/media/IMG_1395.jpg": "/static/media/IMG_1395.832209658f6a06e75279.jpg",
+    "static/media/Ayush.png": "/static/media/Ayush.232f0477dea74cac3ee2.png",
+    "index.html": "/index.html",
+    "main.5433a991.css.map": "/static/css/main.5433a991.css.map",
+    "main.fd05c1c2.js.map": "/static/js/main.fd05c1c2.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5433a991.css",
+    "static/js/main.fd05c1c2.js"
+  ]
+}
